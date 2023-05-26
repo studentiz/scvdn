@@ -9,8 +9,8 @@
 
 ## The scVDN model training
 * You can train the scVDN model based on our code. The following code includes the dataset preparation and neural network framework structure required for training the scVDN model. Note: Due to the neural network using random gradient descent to optimize scVDN, the performance of the scVDN model you trained may not be consistent with the performance of the scVDN model we trained.
-* 'scVDN_model_training.ipynb' needs to be run in jupyter lab or Google Colab.
-* 'scvdn_model_training.py' includes all codes of 'scVDN_model_training.ipynb'.
+* <u>"scVDN_model_training.ipynb"</u> needs to be run in jupyter lab or Google Colab.
+* <u>"scvdn_model_training.py"</u> includes all codes of <u>"scVDN_model_training.ipynb"</u>.
 
 ## The scVDN model trained by the author
 * https://drive.google.com/file/d/1XAATUnY3QPluIKtxDRQjJQPB9Y8wxqX1/view?usp=share_link
@@ -22,13 +22,13 @@
 
 ## Models evolution
 * You can access the code for model evaluation policies in any of the following files. 
-* 'Models_Evaluation.ipynb' needs to be run in jupyter lab or Google Colab.
-* 'Models_ Evaluation.py' includes all codes of 'Models_Evaluation.ipynb'.
+* <u>"Models_Evaluation.ipynb"</u> needs to be run in jupyter lab or Google Colab.
+* <u>"Models_ Evaluation.py"</u> includes all codes of <u>"Models_Evaluation.ipynb"</u>.
 
 ## Reproducing and visualizing figures in papers
 * You can reproduce the figures and visualizations from our paper using this section of code.
-* 'Figures.ipynb' needs to be run in jupyter lab or Google Colab.
-* 'figures.ipynb' includes all codes of 'Figures.ipynb'.
+* <u>"Figures.ipynb"</u> needs to be run in jupyter lab or Google Colab.
+* <u>"figures.ipynb"</u> includes all codes of <u>"Figures.ipynb"</u>.
 
 
 
