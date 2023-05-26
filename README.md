@@ -1,5 +1,5 @@
-# Single-cell virus detection network (scVDN)
-* Identifying SARS-CoV-2 infected cells with scVDN
+# Identifying SARS-CoV-2 infected cells with scVDN
+* This is a tutorial designed to help researchers build and learn the scVDN model. You can find all the necessary data and source code for scVDN in this Github repository. You can even reproduce the figures from our paper using this documentation.
 
 ## Runtime Environment
 * We strongly recommend users to use Google Colab to replicate scVDN projects. 
