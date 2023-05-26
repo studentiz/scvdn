@@ -39,4 +39,4 @@ You can reproduce the figures and visualizations from our paper using the follow
 - `Figures.ipynb`: This notebook file should be run in Jupyter Lab or Google Colab.
 - `figures.ipynb`: This Python file includes all the code from the `Figures.ipynb` notebook.
 
-We hope that this tutorial will be helpful in using scVDN to identify SARS-CoThank you for your feedback. Here's the revised version of your README.md file in Markdown format:
+We hope that this tutorial will be helpful in using scVDN to identify SARS-CoThank you for your feedback.
