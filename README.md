@@ -25,7 +25,7 @@
 * <u>"Models_Evaluation.ipynb"</u> needs to be run in jupyter lab or Google Colab.
 * <u>"Models_ Evaluation.py"</u> includes all codes of <u>"Models_Evaluation.ipynb"</u>.
 
-## Reproducing and visualizing figures in papers
+## Reproducing and visualizing figures in paper
 * You can reproduce the figures and visualizations from our paper using this section of code.
 * <u>"Figures.ipynb"</u> needs to be run in jupyter lab or Google Colab.
 * <u>"figures.ipynb"</u> includes all codes of <u>"Figures.ipynb"</u>.
