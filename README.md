@@ -19,7 +19,7 @@
 * https://drive.google.com/file/d/1XAATUnY3QPluIKtxDRQjJQPB9Y8wxqX1/view?usp=share_link
 
 
-## Trained scVDN model link
+## Trained scVDN model
 * You can directly download our trained scVDN model at the following link. This model is consistent with the scVDN model in the paper, which uses ciliated cells for training.
 * https://drive.google.com/file/d/1Kl_-m4KyVeD1JYTuP03kmuyKI_C4nmaO/view?usp=sharing
 
