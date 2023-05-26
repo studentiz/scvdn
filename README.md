@@ -5,6 +5,7 @@
 * We strongly recommend users to use Google Colab to replicate scVDN projects. Specifically, scVDN requires at least 50GB of memory for training, and users should subscribe to the Colab Pro service.
 
 ## Original single cell data
+* You can download the raw single-cell data from the nasal swab samples collected by the Jose Ordovas-Montanes group via the following link.
 * https://drive.google.com/file/d/1XAATUnY3QPluIKtxDRQjJQPB9Y8wxqX1/view?usp=sharing
 
 ## The scVDN model training
@@ -13,6 +14,7 @@
 * <u>"scvdn_model_training.py"</u> includes all codes of <u>"scVDN_model_training.ipynb"</u>.
 
 ## The scVDN model trained by the author
+* You can download our pre-trained scVDN model, which was trained using ciliated cells. This model is the same scVDN model mentioned in our published paper.
 * https://drive.google.com/file/d/1XAATUnY3QPluIKtxDRQjJQPB9Y8wxqX1/view?usp=share_link
 
 
