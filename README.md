@@ -7,7 +7,7 @@
 ## Original single cell data
 * https://drive.google.com/file/d/1XAATUnY3QPluIKtxDRQjJQPB9Y8wxqX1/view?usp=sharing
 
-## scVDN model training
+## The scVDN model training
 * You can train the scVDN model based on our code. The following code includes the dataset preparation and neural network framework structure required for training the scVDN model. Note: Due to the neural network using random gradient descent to optimize scVDN, the performance of the scVDN model you trained may not be consistent with the performance of the scVDN model we trained.
 * 'scVDN_model_training.ipynb' needs to be run in jupyter lab or Google Colab.
 * 'scvdn_model_training.py' includes all codes of 'scVDN_model_training.ipynb'.
