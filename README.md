@@ -12,7 +12,7 @@ You can download the raw single-cell data from nasal swab samples collected by t
 
 - https://drive.google.com/file/d/1XAATUnY3QPluIKtxDRQjJQPB9Y8wxqX1/view?usp=sharing
 
-## scVDN Model Training
+## The scVDN Model Training
 
 To train the scVDN model, you can use our code, which includes the necessary dataset preparation and neural network framework structure. Please note that due to the neural network using random gradient descent to optimize scVDN, the performance of the model you train may not be consistent with the performance of our trained model. The following files areavailable:
 
