@@ -1,4 +1,4 @@
-# single-cell virus detection network (scVDN)
+# Single-cell virus detection network (scVDN)
 * Identifying SARS-CoV-2 infected cells with scVDN
 
 ## Runtime Environment
